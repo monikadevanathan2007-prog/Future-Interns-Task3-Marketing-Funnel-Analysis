@@ -72,11 +72,7 @@ This dashboard page provides a high-level overview of campaign performance.
 * Converted Customers by Job Category
 * Converted Customers by Education Level
 
-### Dashboard Screenshot
 
-![Dashboard Overview](Screenshots/Dashboard_Overview.png)
-
----
 
 ### Page 2 – Interactive Customer Segmentation Analysis
 
@@ -96,9 +92,7 @@ This dashboard page enables detailed customer segmentation through interactive f
 * Converted Customers by Contact Method
 * Converted Customers by Marital Status
 
-### Dashboard Screenshot
 
-![Interactive Analysis](Screenshots/Interactive_Analysis.png)
 
 ---
 
@@ -194,7 +188,7 @@ This project was completed as part of the **Future Interns Data Science & Analyt
 
 ## Author
 
-**Inomika**
+**Monika Devanathan**
 
 Data Science & Analytics Intern – Future Interns
 
